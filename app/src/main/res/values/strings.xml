@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string-array name="planets_array">
+        <item>set1</item>
+        <item>set2</item>
+        <item>set3</item>
+        <item>set4</item>
+        <item>set5</item>
+
+    </string-array>
+</resources>
